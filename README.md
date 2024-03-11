@@ -51,6 +51,7 @@ open -t http://localhost:8080/q/dev/org.kie.kogito.kogito-addons-quarkus-data-in
 
 # Next steps
 ## Building, deploying and running in cluster environment
+Testing
 ## Developing tests
 :construction:
 # Developer's guide
