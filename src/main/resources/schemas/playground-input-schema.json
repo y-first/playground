@@ -1,0 +1,15 @@
+{
+  "$id": "classpath:/schemas/playground-schema.json",
+  "title": "playground: Data Input Schema",
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "type": "object",
+  "properties": {
+    "playground__sub_schema__sample_data.json": {
+      "$ref": "playground__sub_schema__sample_section.json",
+      "type": "object"
+    }
+  },
+  "required": [
+    "playground__sub_schema__sample_data.json"
+  ]
+}
